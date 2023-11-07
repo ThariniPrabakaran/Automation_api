@@ -1,2 +1,2 @@
-# Automation_api
-api using mocha
+# API_Automation
+Practise API automation
